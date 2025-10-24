@@ -1,0 +1,23 @@
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# IDE/editor settings
+.vscode/
+.idea/
+
+# Test cache
+.pytest_cache/
+.coverage
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
