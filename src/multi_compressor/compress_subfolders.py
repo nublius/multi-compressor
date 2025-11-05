@@ -1,4 +1,4 @@
-from compress import compress_folder_to_zip
+from multi_compressor.compress import compress_folder_to_zip
 from pathlib import Path
 
 def compress_subfolders(dir):

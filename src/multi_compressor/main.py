@@ -1,4 +1,4 @@
-from compress_subfolders import compress_subfolders
+from multi_compressor.compress_subfolders import compress_subfolders
 from pathlib import Path
 import click
 
